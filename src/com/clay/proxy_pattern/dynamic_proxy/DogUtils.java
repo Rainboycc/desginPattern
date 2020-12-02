@@ -1,7 +1,6 @@
 package com.clay.proxy_pattern.dynamic_proxy;
 
 public class DogUtils {
-
     public static void method1 () {
         System.out.println("增强方式一");
     }
